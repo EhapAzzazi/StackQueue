@@ -1,0 +1,15 @@
+D:\New Course\StackQueue\bin\Debug\net6.0\StackQueue.exe
+D:\New Course\StackQueue\bin\Debug\net6.0\StackQueue.deps.json
+D:\New Course\StackQueue\bin\Debug\net6.0\StackQueue.runtimeconfig.json
+D:\New Course\StackQueue\bin\Debug\net6.0\StackQueue.dll
+D:\New Course\StackQueue\bin\Debug\net6.0\StackQueue.pdb
+D:\New Course\StackQueue\obj\Debug\net6.0\StackQueue.csproj.AssemblyReference.cache
+D:\New Course\StackQueue\obj\Debug\net6.0\StackQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Course\StackQueue\obj\Debug\net6.0\StackQueue.AssemblyInfoInputs.cache
+D:\New Course\StackQueue\obj\Debug\net6.0\StackQueue.AssemblyInfo.cs
+D:\New Course\StackQueue\obj\Debug\net6.0\StackQueue.csproj.CoreCompileInputs.cache
+D:\New Course\StackQueue\obj\Debug\net6.0\StackQueue.dll
+D:\New Course\StackQueue\obj\Debug\net6.0\refint\StackQueue.dll
+D:\New Course\StackQueue\obj\Debug\net6.0\StackQueue.pdb
+D:\New Course\StackQueue\obj\Debug\net6.0\StackQueue.genruntimeconfig.cache
+D:\New Course\StackQueue\obj\Debug\net6.0\ref\StackQueue.dll
